@@ -20,5 +20,5 @@ git push
 
 git remote add origin https://github.com/mukesh2305/nodejsPract.git(add git reporestory address to add git repo inside the  )
 
-git push -M main
+git push -M main (if you want to change the branch name than use this command)
 git push -u origin master(or any branch name)
