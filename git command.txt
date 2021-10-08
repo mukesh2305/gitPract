@@ -1,0 +1,24 @@
+git status 
+git add . 
+git commit -m "message"
+git push 
+
+git checkout "mukesh"
+git push -u origin mukesh
+git pull origin mukesh
+git pull
+
+git branch -M main (change branch name from master to main)
+git branch mukesh (create branch name using this command)
+git remote add origin https://github.com/mukesh2305/nodejsPract.git(add git reporestory address to add git repo inside the  )
+
+// steps 
+git init
+git add .
+git commit -m "add comment"
+git push 
+
+git remote add origin https://github.com/mukesh2305/nodejsPract.git(add git reporestory address to add git repo inside the  )
+
+git push -M main
+git push -u origin master(or any branch name)
